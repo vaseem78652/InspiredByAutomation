@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Automation.features.search.SearchByKeywordStory" skipped="0" tests="1" time="16.06" timestamp="2020-02-04 08:20:33"><testcase classname="Automation.features.search.SearchByKeywordStory" name="Search results should show the search term in the title"/></testsuite>
